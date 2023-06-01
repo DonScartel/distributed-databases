@@ -1,5 +1,5 @@
 
-Before you do any of this you must be familiar with
+Before you do any of these you must be familiar with
 
 -installing and using citus(postgress), there are other alternatives but for this project we used citus
 -installing express 
